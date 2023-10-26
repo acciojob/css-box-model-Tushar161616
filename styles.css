@@ -8,13 +8,13 @@
 .box{
 	width:470px;
 	height:250px;
-	border:5px solid black;
+	border:1px solid black;
 }
 .main{
 	width:420px;
 	height:200px;
-	background-color:rgb(1,174,191);
-	border:15px solid rgb(91,73,247);
+	background-color:rgb(173, 216, 230);
+	border:15px solid rgb(0, 0, 255);
 	margin:20px;
 	padding:50px;
 }
