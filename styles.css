@@ -8,12 +8,13 @@
 }
 .text{
 	width:300px;
+	background-color:rgb(173, 216, 230);
 	height:120px;
 	border:2px solid black;
 	padding:30px 5px;
 }
 .main{
-	border:15px solid blue;
+	border:15px solid rgb(0, 0, 255);
 	padding:50px;
 	margin:20px;
 }
